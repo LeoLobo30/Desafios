@@ -1,2 +1,2 @@
 # Desafios
-treinando
+treinando e praticando
