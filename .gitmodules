@@ -1,3 +1,9 @@
 [submodule "Theme Switcher"]
-	path = Theme Switcher
+	path = Challenges Discover/Theme Switcher
 	url = git@github.com:LeoLobo30/Theme_Switcher.git
+[submodule "Countdown"]
+	path = Challenges Discover/Countdown
+	url = git@github.com:LeoLobo30/Countdown.git
+[submodule "Challenges Ignite/Concepts-of-React"]
+	path = Challenges Ignite/Concepts-of-React
+	url = git@github.com:LeoLobo30/Concepts-of-React.git
